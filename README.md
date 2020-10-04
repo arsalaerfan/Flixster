@@ -23,7 +23,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
-Had some issues with with app not running and building too many config files but was able to solve by cleaning the probject and running the app on a differecetn emulator.
+Had some issues with with app not running and building too many config files but was able to solve by cleaning the probject and running the app on a different emulator.
 
 ### Open-source libraries used
 
